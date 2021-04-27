@@ -228,7 +228,7 @@
                             android:layout_height="wrap_content"
                             android:text="Tell me more"
                             android:textSize="13sp"
-                            android:textColor="#7165e3"
+                            android:textColor="#06ED18"
                             android:lineSpacingExtra="2sp"
                             android:layout_marginTop="5dp"
                             android:layout_marginBottom="5dp"
