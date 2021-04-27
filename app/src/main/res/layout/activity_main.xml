@@ -405,7 +405,7 @@
                         android:layout_width="60dp"
                         android:layout_height="50dp"
                         app:cardCornerRadius="8dp"
-                        app:cardBackgroundColor="#7165e3"
+                        app:cardBackgroundColor="#06ED18"
                         >
 
                         <ImageView
