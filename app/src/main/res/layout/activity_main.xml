@@ -350,7 +350,7 @@
                         android:layout_width="60dp"
                         android:layout_height="50dp"
                         app:cardCornerRadius="8dp"
-                        app:cardBackgroundColor="#06ED18"
+                        app:cardBackgroundColor="#CA3075"
                         >
 
                         <ImageView
