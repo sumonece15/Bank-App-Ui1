@@ -512,7 +512,7 @@
                     android:indeterminate="false"
                     android:max="100"
                     android:progress="40"
-                    android:progressTint="#7165e3"
+                    android:progressTint="#CA3075"
                     style="@style/Widget.AppCompat.ProgressBar.Horizontal"
                     />
 
