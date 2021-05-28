@@ -17,7 +17,7 @@
 
         <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="275dp"
+            android:layout_height="276dp"
             android:background="#CA3075"
             >
 
